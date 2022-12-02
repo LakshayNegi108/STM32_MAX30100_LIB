@@ -1,0 +1,21 @@
+E:/STM codes/STM32F070 SPACE/MAX30100_LIB/Libraries/MAX30100_LIB/Inc/ring_buffer.h:61:28:rb_size	8	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:10:19:user_i2cConfig	16	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:22:19:MAX30100_begin	8	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:50:9:MAX30100_readRegister	32	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:59:19:MAX30100_writeRegister	24	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:64:19:MAX30100_burstRead	24	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:70:9:MAX30100_getPartId	8	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:74:19:MAX30100_setMode	16	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:78:19:MAX30100_setLedsPulseWidth	32	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:84:19:MAX30100_setSamplingRate	32	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:90:19:MAX30100_setLedsCurrent	16	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:96:19:MAX30100_setHighresModeEnabled	32	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:107:19:MAX30100_update	8	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:111:6:MAX30100_getRawValues	32	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:125:19:MAX30100_resetFifo	8	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:139:19:MAX30100_readFifoData	88	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:165:19:MAX30100_startTemperatureSampling	24	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:176:6:MAX30100_isTemperatureReady	8	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:181:7:MAX30100_retrieveTemperature	24	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:189:19:MAX30100_shutdown	24	static
+../Libraries/MAX30100_LIB/Src/MAX30100.c:200:19:MAX30100_resume	24	static
