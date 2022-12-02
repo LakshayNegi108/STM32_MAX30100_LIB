@@ -1,0 +1,4 @@
+../Libraries/MAX30100_LIB/Src/MAX30100_Filters.c:9:7:stepDCRemover	24	static
+../Libraries/MAX30100_LIB/Src/MAX30100_Filters.c:15:7:getDCW	16	static
+../Libraries/MAX30100_LIB/Src/MAX30100_Filters.c:19:7:stepFilterBuLp1	24	static
+../Libraries/MAX30100_LIB/Src/MAX30100_Filters.c:26:7:meanDiff	32	static
