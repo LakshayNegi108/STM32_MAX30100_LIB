@@ -147,6 +147,8 @@ int main(void) {
 	return 0;
 }
 
+// This is the working code using MAX30100.h only. 
+//It reads red and IR values only without any algorithm but with ring buffer of type struct
 
 /*
 
